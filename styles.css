@@ -1,0 +1,92 @@
+.baralho {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.carta {
+  background-color: rgb(56, 97, 69);
+}
+
+.grade {
+  display: grid;
+  grid-template-columns:repeat(12, 1fr);
+  gap: 5px;
+}
+
+.linha {
+  display: flex;
+  background-color: rgb(56, 65, 146);
+  grid-column: 1/ 12 span;
+  height: 50px;
+  border-radius: 50px;
+  justify-content: space-between;
+  border-style: solid;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+.linha2 {
+  display: flex;
+  background-color: rgb(99, 43, 80);
+  grid-column: 1/ 12 span;
+  height: 200px;
+  justify-content: center;
+  border-radius: 10px;
+  border-style: solid;
+}
+.nome {
+  background-color: aqua;
+  font-size:x-large;
+  width: 100px;
+  height: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nome2 {
+  background-color: rgb(194, 11, 11);
+  font-size:x-large;
+  width: 150px;
+  height: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.linha3 {
+  display: flex;
+  background-color: rgb(56, 65, 146);
+  grid-column: 1/ 12 span;
+  height: 50px;
+  border-radius: 50px;
+  justify-content: center;
+  border-style: solid;
+  align-items: center;
+
+}
+.linha4 {
+  display: flex;
+  background-color: rgb(141, 85, 122);
+  grid-column: 1/ 12 span;
+  height: 150px;
+  justify-content: center;
+  border-radius: 50px;
+  border-style: solid;
+}
+.nome3 {
+  background-color: aquamarine;
+  height: 100px;
+  border-radius: 15px;
+  border-style: solid;
+
+
+}
+.teste {
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+
+}
+.ps {
+  width: 50px;
+  border-radius: 70px;
+
+
+
+}
