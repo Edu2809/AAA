@@ -1,0 +1,21 @@
+[
+    {
+        "nome": "Shadow Mewtwo",
+        "texto": "Shadow Mewtwo é um pokemon muito poderoso muito mesmo",
+        "imagem": ["https://archives.bulbagarden.net/media/upload/7/7a/Pokk%C3%A9n_Shadow_Mewtwo.png"],
+        "poder": "3000"
+    },
+    {
+        "nome": "Mewtwo",
+        "texto":"Mewtwo é um pokemon muitissimo poderoso e ele faz coisas incríveis",
+        "imagem": ["img/150.png"],
+        "poder": "2000"
+    },
+    {
+        "nome": "Mega Mewtwo",
+        "texto": "Mega Mewtwo é um pokemon que faz coisas legais pensando em coisas legais pra fazer ele tenta fazer tudo que é legal nesse mundo.",
+        "imagem": ["https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/150_f3.png"],
+        "poder": "5000"
+        
+    }
+]
